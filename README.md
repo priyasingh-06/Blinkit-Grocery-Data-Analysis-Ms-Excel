@@ -8,7 +8,9 @@ The dashboard helps analyze grocery sales performance based on different **outle
 
 The main purpose of this project is to convert raw grocery data into an easy-to-understand interactive dashboard.
 
----
+## 📊 Dashboard Preview
+
+![Swiggy Sales Analysis Dashboard](dashboard.png)
 
 ## 🛠️ Tools & Technologies
 
